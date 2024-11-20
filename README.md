@@ -60,8 +60,8 @@ cd /var/www/html
 ls
 cat file  # Verify shared access by reading content created in Instance 1
 ```
-### REGISTER NUMBER: 212222240007
-### NAME : Aldrin Lijo J E
+### REGISTER NUMBER: 212222110004
+### NAME : AMRUTHA
 
 ## OUTPUT :
 
