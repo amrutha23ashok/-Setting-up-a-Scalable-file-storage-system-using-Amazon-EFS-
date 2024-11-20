@@ -1,3 +1,5 @@
+ 
+
 # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
  
 ## AIM :
@@ -60,8 +62,8 @@ cd /var/www/html
 ls
 cat file  # Verify shared access by reading content created in Instance 1
 ```
-### REGISTER NUMBER: 212222240007
-### NAME : Aldrin Lijo J E
+### REGISTER NUMBER: 212222110004
+### NAME : AMRUTHA
 
 ## OUTPUT :
 
@@ -77,7 +79,7 @@ cat file  # Verify shared access by reading content created in Instance 1
 ![ec22](https://github.com/user-attachments/assets/f6f4d03c-6ddf-4490-a79e-faf3f033c9f2)
 
 ## RESULT :
-Successfully set up a scalable file storage system using Amazon EFS shared between two Linux EC2 instances in different availability zones, enabling consistent data sharing.
+Successfully set up a scalable file storage system using Amazon EFS shared between two Linux EC2 instances in different availability zones, enabling consistent data sharing
  
   
 
